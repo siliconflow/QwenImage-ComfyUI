@@ -16,8 +16,13 @@ a ComfyUI custom node for Qwen-Image,surpport VARM >=8GB
 
 4.启动ComfyUI
 
-详细教程公众号推文里面有
-https://mp.weixin.qq.com/s/iSWBHeqcGWDusZA8hlD6EA
+
+手把手教程：
+
+[Qwen-Image蒸馏5倍加速工作流来啦，8gb显存起用，4090显卡10步可15秒出图（内附喂饭级制作教程）](https://mp.weixin.qq.com/s/kqSdi7R_-O23mex8HaKd2A)
+
+[开源Qwen-Image文生图工作流，8gb显存起用，4090显卡20步可30秒出图（内附喂饭级制作教程）](https://mp.weixin.qq.com/s/iSWBHeqcGWDusZA8hlD6EA)
+
 
 ## Demo
 ![](https://github.com/user-attachments/assets/9bed83a4-74e0-4cea-b3b1-59c653e7cde6)
