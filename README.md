@@ -11,5 +11,8 @@ a ComfyUI custom node for Qwen-Image,surpport VARM >=8GB
 
 4.启动ComfyUI
 
+详细教程公众号推文里面有
+https://mp.weixin.qq.com/s/iSWBHeqcGWDusZA8hlD6EA
+
 ## Demo
 ![](https://github.com/user-attachments/assets/9bed83a4-74e0-4cea-b3b1-59c653e7cde6)
