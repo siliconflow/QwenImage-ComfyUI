@@ -4,6 +4,11 @@ a ComfyUI custom node for Qwen-Image,surpport VARM >=8GB
 1.下载「qwen_image_transformer_mmgp.safetensors」放入ComfyUI/models/diffusion_models
 链接：https://pan.quark.cn/s/e1029a528b0e
 
+如果要使用加速工作流
+
+下载「qwen_image_transformer_step_15_cfg_1_mmgp.safetensors」放入ComfyUI/models/diffusion_models
+链接：https://pan.quark.cn/s/78b181a94b1a
+
 2.下载「qwen_image_text_encoder_mmgp.safetensors」放入ComfyUI/models/text_encoders
 链接：https://pan.quark.cn/s/8c0bdda6ddce
 
