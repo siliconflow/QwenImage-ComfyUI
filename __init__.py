@@ -32,6 +32,7 @@ class LoadQwenImagePipe:
 
     def __init__(self):
         pipe_path = folder_paths.models_dir
+        pipe_path = osp.join(folder_paths.models_dir,"qwen-image")
         if not osp.exists(osp.join(pipe_path,"vae/diffusion_pytorch_model.safetensors")):
             snapshot_download(repo_id="Qwen/Qwen-Image",local_dir=pipe_path,
                               ignore_patterns=["transformer*","text_encoder*"])
