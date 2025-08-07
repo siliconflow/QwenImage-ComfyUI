@@ -31,7 +31,7 @@ vram_optimization_opts = [
 class LoadQwenImagePipe:
 
     def __init__(self):
-        pipe_path = osp.join(aifsh_dir,"Qwen-Image")
+        pipe_path = folder_paths.models_dir
         if not osp.exists(osp.join(pipe_path,"vae/diffusion_pytorch_model.safetensors")):
             snapshot_download(repo_id="Qwen/Qwen-Image",local_dir=pipe_path,
                               ignore_patterns=["transformer*","text_encoder*"])
